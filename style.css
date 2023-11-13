@@ -178,5 +178,6 @@ button img {
 
   .attribution {
     margin-top: -18.75rem; /* -300px */
+    display: none;
   }
 }
